@@ -1,3 +1,5 @@
-# runway
+# runway 🛫
 
-Hello world!
+Giving flight to IssueOps commands on GitHub with speed and simplicity
+
+![runway](assets/banner.png)
